@@ -1,0 +1,32 @@
+.heading {
+    background-color: rgb(71, 71, 71);
+    height: 100px
+}
+.center {
+    background-color: white;
+    align-self: center;
+    height: 800px;
+}
+.footer {
+    background-color: rgb(26, 25, 25);
+    height: 60px;
+    bottom: 0px;
+    right: 100px;
+    left: 100px;
+}
+#side-bar-1 {
+    background-color: rgb(181, 174, 174);
+    right: 0px;
+    left: 1800px;
+    bottom: 0px;
+    top: 100px;
+    position: absolute;
+}
+#side-bar-2 {
+    background-color: rgb(181, 174, 174);
+    right: 1800px;
+    left: 0px;
+    bottom: 0px;
+    top: 100px;
+    position: absolute;
+}
